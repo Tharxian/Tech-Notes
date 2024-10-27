@@ -1,0 +1,6 @@
+~ DDL
+
+	create database school default charset utf8mb4;
+	
+	
+	
